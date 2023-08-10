@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Support Needy Students in Kenya</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#portfolio">Portfolio</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <main>
+        <section id="intro" class="intro">
+            <h1>Octob- her</h1>
+            <p>Join us in making education accessible to every child.</p>
+            <a href="#donate" class="cta-button">Donate Now</a>
+        </section>
+        
+        <section id="about" class="about">
+            <h2>About Us</h2>
+            <p>We are a devoted non-profit, weaving education's light into Kenya's underprivileged. In this pivotal moment, we stand on the edge of rescuing young girls from early marriage and FGM's darkness. Let's unite, kindling a future where their dreams are unbound, their spirits free, and the symphony of change echoes through generations.</p>
+        </section>
+        
+        <section id="services" class="services">
+            <h2>Our Initiatives</h2>
+            <div class="service">
+                <h3>Scholarship Programs</h3>
+                <p>At the heart of our initiative lies a scholarship program that reaches out like a caring embrace to the dreams of young hearts. We believe that financial constraints should never bar the path to education, and thus, we offer a nurturing hand to underprivileged students, guiding them toward brighter horizons.</p>
+            </div>
+            <div class="service">
+                <h3>School Supplies</h3>
+                <p>In the tapestry of our efforts, every thread counts. Our mission extends beyond books and pens; it weaves dreams with the gift of school supplies. With every backpack we fill, we hope to lighten the load of obstacles that these children face, and paint their journey with colors of hope and possibility.</p>
+            </div>
+        </section>
+        
+        <section id="portfolio" class="portfolio">
+            <h2>Success Stories</h2>
+            <div class="story">
+                <img src="images/story1.jpg" alt="Student's Photo">
+                <p>In the heart of our initiative, we celebrate the incredible journeys of young girls whose lives have been touched by our unwavering commitment. </p>
+                
+               
+
+
+
+<p>Meet Amina, a resilient spirit who once faced the harsh reality of early marriage. Through our scholarship program, we rescued her dreams from the shadows, empowering her with education as her weapon. Today, Amina stands tall as a beacon of change, advocating against child marriage and inspiring her peers to embrace learning.</p>
+                <p class="author">- Then there's Nia, who escaped the grasp of Female Genital Mutilation (FGM) through our support. With her dreams intact and our scholarship in hand, she not only excels academically but also actively engages her community to challenge harmful traditions.</p>
+            </div>
+            <div class="story">
+                <img src="images/story2.jpg" alt="Student's Photo">
+                <p>"With your support, I've overcome challenges and am excelling in my studies."</p>
+                <p class="author">-Dama, Beneficiary</p>
+            </div>
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; 2023 Octob-her Foundation. All rights reserved.</p>
+    </footer>
+    
+    <script src="script.js"></script>
+</body>
+</html>
